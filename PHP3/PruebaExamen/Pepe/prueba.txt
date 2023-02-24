@@ -1,0 +1,7 @@
+1	Linterna HJ1	40	98	
+2	Pilas 1.5V	25.5	194	
+3	Mochila M28	125.5	50	
+4	Brujula T30	6.99	18	
+5	Cantimplora Fusion	10	29	
+6	Saco Polar HJ2	78.95	53	
+12	Articulo12	12	12	

@@ -1,0 +1,59 @@
+h1 {
+background-color: grey;
+font-family: arial;
+margin: 0;
+}
+body {
+font-family: arial narrow;
+align-content: center;
+font-size: 16;
+background-color: blanchedalmond;
+color: green;
+}
+thead {
+font-family: courier;
+align-content: center;
+font-weight: bold;
+background-color: cyan;
+color:blue; 
+}
+tbody{
+font-family: verdana;
+font-size: 12;
+background-color: cyan;
+color:red;
+text-align: center;
+font-weight: normal;
+}
+ul{
+font-family: gothic;
+background-color: gold;
+color: blueviolet;
+list-style-type: circle;
+}
+ol{
+font-family: broadway-normal;
+background-color: greenyellow;
+color:darkcyan;
+}
+p{
+background-color: aquamarine;
+color: black;
+}
+table{
+width: 400px;
+color: red;
+font-family: arial; 
+border: 1px solid black;
+border-color: pink red red pink;
+}
+td{
+border: 1px solid black;
+border-color: red pink pink red;
+
+}
+th{
+border: 1px solid black;
+border-color: blue pink pink blue;
+}
+
